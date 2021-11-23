@@ -1,84 +1,80 @@
-Requirements for Automatic Path way for emergency Vehicles
+# Requirements for Automatic Path way for emergency Vehicles
 
-Identifying Features
+# Identifying Features
 
--Giving importance to the emergency vehicles
+ - Giving importance to the emergency vehicles
 
--Reducing time wasting for the traffic lights to change
+ - Reducing time wasting for the traffic lights to change
 
--Reducing congestion control and pollution from the vehicles
+ - Reducing congestion control and pollution from the vehicles
 
--protect green house effect
+ - protect green house effect
+ 
+# State of art/Research
 
-SWOT ANALYSIS
+![](https://hackster.imgix.net/uploads/attachments/697538/density_based_traffic_light_controller_using_arduino_emyZSbRdsM.JPG?auto=compress%2Cformat&w=900&h=675&fit=min)
 
--Strength
+# SWOT ANALYSIS
 
-.Increase road safety
+ - Strength
 
-.Improves traffic flow
+ - Increase road safety
 
--Weakness
+ - Improves traffic flow
 
-.Take More time
+ - Weakness
 
-.It require manual operation
+ - Take More time
 
--Opportunities
+ - It require manual operation
 
-• Business strategy: You will better understand how a smart street lighting solution enables you to successfully meet your business outcomes
+# Opportunities
 
-• Technology decisions: You will learn how a smart street lighting solution works to deliver IT and business value
+- Business strategy: You will better understand how a smart street lighting solution enables you to successfully meet your business outcomes
 
--Threats
+ - Technology decisions: You will learn how a smart street lighting solution works to deliver IT and business value
 
-.The absence of those traffic lights and even others that are not functioning properly pose danger to pedestrians, drivers and motorbike riders
+# Threats
 
-4W and 1H
+ - The absence of those traffic lights and even others that are not functioning properly pose danger to pedestrians, drivers and motorbike riders
 
--Who
+# 4W's and 1H
 
-B.Meghana try to implement a problem statement.
+# Who
 
-- What
+ - B.Meghana try to implement a problem statement.
 
-Implementation of Automatic path way for emergency vehicles.
+#  What
 
-- Where
+ - Implementation of Automatic path way for emergency vehicles.
 
-.Ambulances
+# Where
 
-.Fire extinguishing vehicles
+ -  Ambulances
 
-.Police vans in emergency
+ - Fire extinguishing vehicles
 
-- How
+ - Police vans in emergency
 
-This application is implemented using C programing language.
+# How
 
-- High level requirements
+- This application is implemented using C programing language.
 
-By Placing sound sensor on either side of the round.By using sound sensor giving Green signal  to the emgerncy vehicles path.
+ # High level requirements
 
-- Low level requirements
+ - By Placing sound sensor on either side of the round .By using sound sensor giving Green signal  to the emgerncy vehicles path.
 
-1.To study on equipments and tools used and their specifications.
+ #  Low level requirements
 
-2.To study on the features of microprocessor to more focus in respect of working and functionality.
+ - To study on equipments and tools used and their specifications.
 
-3.To study on the pin diagram of microcontroller to build the proper circuit.
+ - To study on the features of microprocessor to more focus in respect of working- This application is implemented using C programing language.
 
-4.To study the IR sensor circuit and its functionality.
+ - Writing the program to control the traffic system.
 
-5.To study on the program to be developed and the software to be used to burn the program on microcontroller.
+ - Connecting IR sensors and GPIO pins.
 
-6. Drawing and preparing for circuit.
-
-7.Writing the program to control the traffic system.
-
-8.Connecting IR sensors and GPIO pins.
-
-9.Power on the system and testing the functionality of it placing some obstacles in front of the IR sensors observing the LED glow.
+ - Power on the system and testing the functionality of it placing some obstacles in front of the IR sensors observing the LED glow.
 
 
 
